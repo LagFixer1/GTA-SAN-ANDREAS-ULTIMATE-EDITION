@@ -12,7 +12,7 @@
 
 ## Required Mod
 
-This mod must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install your game will crash.
+This mod must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install this mod your game will crash.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
