@@ -234,9 +234,21 @@ The following mod folders are included in the current Mod Loader setup.
 <details>
 <summary><strong>CLEO Mods</strong></summary>
 
-| Mod | Author | Original Mod Page |
-|---|---|---|
-| [Mod name] | [Author] | [Link] |
+The following CLEO mods are included in the current setup. Author credits and original mod pages will be added after each source is verified.
+Mod 	Author 	Original Mod Page
+
+SaShakeFx 	
+Amazing Screen Shot Mod 	
+Dynamic Camera 	
+GTA SA IV Car Highjack Mod 
+Hold Melee 	
+VC Cop Coronas 
+RZL Trainer 
+Skidblow 	
+Show Only Necessary HUD 	
+Air Traffic Realism 	
+Blur on Explosion 	
+Cheat Menu 
 
 </details>
 
