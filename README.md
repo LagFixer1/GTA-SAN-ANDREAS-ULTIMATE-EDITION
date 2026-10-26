@@ -64,7 +64,7 @@ The current Mod Loader folder names are listed below.
 <details>
 <summary><strong>Mod Loader Mods</strong></summary>
 
-The following mod folders are included in the current Mod Loader setup.
+The following mods are included in the current Mod Loader setup.
 
 - Advanced Aiming Mod
 - AdvancedNitroSystem_3.2
@@ -234,8 +234,7 @@ The following mod folders are included in the current Mod Loader setup.
 <details>
 <summary><strong>CLEO Mods</strong></summary>
 
-The following CLEO mods are included in the current setup. Author credits and original mod pages will be added after each source is verified.
-Mod 	Author 	Original Mod Page
+The following CLEO mods are included in the current setup. 
 
 SaShakeFx 	
 
@@ -264,7 +263,7 @@ Cheat Menu
 </details>
 
 <details>
-<summary><strong>Other Mods</strong></summary>
+<summary><strong>ASI Mods</strong></summary>
 
 | Mod | Author | Original Mod Page |
 |---|---|---|
