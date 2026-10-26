@@ -12,7 +12,7 @@
 
 ## Required Mod
 
-This mod must be installed for the modpack to work. Add verified names, authors, download links, and any required installation notes when the list is ready.
+This mod must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install your game will crash.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
@@ -60,12 +60,11 @@ These mods are **not included in the main download** and are not required to use
 
 ## Mod List
 
-The current Mod Loader folder names are listed below. Author credits and original download links will be added after each source is verified.
-
+The current Mod Loader folder names are listed below. 
 <details>
 <summary><strong>Mod Loader Mods</strong></summary>
 
-The following mod folders are included in the current Mod Loader setup. Original authors and source links will be added in the credits section after they are verified.
+The following mod folders are included in the current Mod Loader setup.
 
 - Advanced Aiming Mod
 - AdvancedNitroSystem_3.2
