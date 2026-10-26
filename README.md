@@ -234,7 +234,7 @@ The following mods are included in the current Mod Loader setup.
 <details>
 <summary><strong>CLEO Mods</strong></summary>
 
-The following CLEO mods are included in the current setup. 
+The following CLEO mods are included in the Cleo mods folder in the modpack. 
 
 SaShakeFx 	
 
@@ -265,9 +265,27 @@ Cheat Menu
 <details>
 <summary><strong>ASI Mods</strong></summary>
 
-| Mod | Author | Original Mod Page |
-|---|---|---|
-| [Mod name] | [Author] | [Link] |
+The following ASI mods are included in the Modpack directory.
+
+Ultimate First Person 0.71 
+
+GTA SA Windowed mode
+
+Reshade
+
+Model Varitions 
+
+timecyc24
+
+ImVehFt
+
+discord-plugin
+
+Bullet trails
+
+Exgangwars
+
+Speradfx
 
 </details>
 
