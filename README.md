@@ -60,14 +60,175 @@ These mods are **not included in the main download** and are not required to use
 
 ## Mod List
 
-The full list of modifications included in the main modpack will be documented here. Mod names, authors, and source links will be added after the included mods have been verified.
+The current Mod Loader folder names are listed below. Author credits and original download links will be added after each source is verified.
 
 <details>
-<summary><strong>Script Mods</strong></summary>
+<summary><strong>Mod Loader Mods</strong></summary>
 
-| Mod | Author | Original Mod Page |
-|---|---|---|
-| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) |
+The following mod folders are included in the current Mod Loader setup. Original authors and source links will be added in the credits section after they are verified.
+
+- Advanced Aiming Mod
+- AdvancedNitroSystem_3.2
+- Air Brake Sound
+- Animated TV
+- Atmosphere Interface Pack
+- Beta Mulholland Safehouse
+- Bike Flip Fix
+- Birds
+- Blur on Vehicle Collisions
+- Boxborder
+- Brake pad sound
+- bullethole
+- Busy Pedestrians (Peds Events Project)
+- Camera Settings
+- Car Crash Inertia
+- Car Dealer
+- Car Wash
+- Cars Divert
+- Cars On Dirt Roads
+- Character Redesigned
+- Change Gear Anim
+- CJ 90's Edition V3.0
+- CJ's Basement
+- climbmod
+- Combat improvement and Melee overhaul
+- Commercial Mod
+- Cops Faster
+- Cops bulletproof
+- Damage mark
+- Damage Screen Blood
+- DE Palm trees adapted to Wind Shader
+- Drive Mod
+- Drive-Thru Expanded
+- DriverThreatReaction
+- Drop Weapons Like In GTA IV
+- EarShotMod
+- Effects Loader
+- EnhanceFX
+- Enterable Hidden Interiors
+- Fair Police
+- Faster animation of sellers
+- Faster Clothes Change
+- Flying Stuff
+- Friendly Triads And Los Aztecas Fix
+- Garage Graffiti
+- Gasoline Mod
+- Glowing Pickups
+- GPS Redux
+- Graffiti Anywhere
+- Gradient Radardisc (Glass-like Effect)
+- GraphicsTweaker
+- Grenade Throw Mod
+- Green Piece
+- Handbrake Mod
+- Hats for Peds
+- HD Animated Blimp
+- Headlight destroyer
+- HeliFix
+- Helmet Mod
+- Hot Coffee
+- Illuminated Vinewood Sign
+- IMFx by DK22Pac
+- ImVehFt
+- Improved Gangs War
+- ImprovedMove
+- Improved Streaming
+- Inside the plane
+- Insult Mod
+- Kill Cam
+- KillConfirmationFX
+- Ladders Mod
+- LS Lit Church
+- Lombadas Brasileiras (MixMods)
+- Low Life Animation
+- Manual Driveby Refixed
+- Menu Background Remake
+- Missing Lampposts Fix
+- MixSets
+- Mobile Hands
+- MoneyChangeHUD
+- More Radar Icons
+- Motel
+- Night
+- Neutral Grip
+- New Official Loading Themes
+- No Auto Pickups
+- NPC Tuning
+- Open Limit Adjuster
+- Original Peds Vary
+- Parking Save Garages
+- Particle TXD
+- Pedestres usando objetos do mapa
+- PedFuncs
+- PizzaBoySA v1.3
+- Project Immerse-Yourself
+- Project2DFX
+- Proper Fixes
+- Proper Player Retex
+- Proper Vehicles Retex
+- QuickMap
+- Radio Effects
+- Rain Mods By TrushinVlad
+- Random Events Project
+- Ragdoll Bullet Physics
+- Real Skybox
+- Real Traffic Fix
+- Realistic Beach
+- RearLightsMod
+- Reloading on the screen
+- ReloadSA
+- reLIT - San Andreas
+- REMASTERED CHARACTER REDESIGNS V1
+- Robbery Mod
+- RoSa Project Evolved
+- Rural car repairs
+- RZL-Skin
+- SA.LeeMoveset
+- SA Styled Speedometer
+- SACamFX
+- Santa Maria Pier Extended
+- SCRLog
+- Shoreline Waves
+- Shot Cam Shake
+- SleekBlood
+- SleekConfig
+- SleekHitmarkers
+- SleekMovement
+- SkyGfx
+- Smart_Health_Recovery
+- Soundize
+- Soundize Ambient Sounds
+- Special Edition Logo
+- Stealth Kill Camera
+- startergt4
+- Story Accessories
+- Taxi Ride
+- The holster on the cops
+- TheBirdsUpdate
+- The weapon is on the player
+- Throw Rotate Fix
+- TimePaynSpray
+- TruckTrailer
+- Tutorial Free Roam
+- UFO Bar Lit
+- Uncompressed SFX Pack
+- Urbanize
+- VCS&LCS Side Missions
+- VCS Font
+- VehDeform1.3c
+- VehFuncs
+- Vehicle Collision Cam Shake
+- VoidRadioWheel
+- VoidWeaponWheel_1.5
+- Wanted Radar Warning
+- Weapon Bail
+- Weapon Change Anim Fixed
+- Weapon Handling Sounds
+- Weapon Inspect Mod
+- WeaponRecoilAuto
+- Welcome Las Venturas
+- Wheel Detach
+- Wind Farm
 
 </details>
 
