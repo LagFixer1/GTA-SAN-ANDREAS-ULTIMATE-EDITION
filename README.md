@@ -300,7 +300,7 @@ Speradfx
 
 ## Download and Install
 
-**Download:** Not available yet. The modpack is still being tested. The download link and final installation instructions will be added when a release is ready.
+**Download:** 
 
 
 ---
@@ -319,7 +319,6 @@ Every third-party modification remains the work of its original author. This sec
 - **Yossi** 
 - **LagFixer** 
 
-Credit and source links will be completed after the mod list is verified. Credit alone does not grant permission to redistribute third-party files; each author's terms must be respected.
 
 ---
 
