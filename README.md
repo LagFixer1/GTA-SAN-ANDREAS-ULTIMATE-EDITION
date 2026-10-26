@@ -238,16 +238,27 @@ The following CLEO mods are included in the current setup. Author credits and or
 Mod 	Author 	Original Mod Page
 
 SaShakeFx 	
+
 Amazing Screen Shot Mod 	
+
 Dynamic Camera 	
+
 GTA SA IV Car Highjack Mod 
+
 Hold Melee 	
+
 VC Cop Coronas 
+
 RZL Trainer 
+
 Skidblow 	
+
 Show Only Necessary HUD 	
+
 Air Traffic Realism 	
+
 Blur on Explosion 	
+
 Cheat Menu 
 
 </details>
