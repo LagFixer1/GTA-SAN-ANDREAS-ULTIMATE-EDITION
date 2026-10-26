@@ -46,7 +46,7 @@ These mods are **not required** for the modpack to work, but may improve the exp
 
 ### [Void Radio Wheel Expanded]
 
-- **Author:** [frnchise]
+- **Author:** [franchise]
 - **Download / Source:** [https://libertycity.net/files/gta-san-andreas/244494-void-radio-wheel-expanded.html]
 - **Why we recommend it:** [This mod is new and we wanted to support the creator so thats why its in the recomended mods list]
 - **Compatibility notes:** [No issues right now]
