@@ -15,7 +15,6 @@
 
 ---
 
-> **Development notice:** Version 1.2.0 is currently being tested. A public download is not available yet. The README and mod list may change before release.
 
 ## About the Project
 
