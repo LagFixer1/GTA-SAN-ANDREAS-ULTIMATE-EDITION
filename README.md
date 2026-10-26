@@ -69,9 +69,9 @@ These mods are **not included in the main download** and are not required to use
 
 ### [Dead Driver]
 
-- **Author:** [peter_99]]
+- **Author:** [peter_99]
 - **Download / Source:** [https://www.patreon.com/cw/peter_99]
-- **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crash lot of times]
+- **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crashed lot of times]
 
 
 ---
