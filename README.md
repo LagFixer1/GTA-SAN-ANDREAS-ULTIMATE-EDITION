@@ -7,7 +7,7 @@
 **Version 1.2.0 · In Development · Testing**
 
 <!-- Add your own GTA SA-themed banner at assets/banner.png -->
-<img src="assets/banner.png" alt="GTA San Andreas: Ultimate Edition banner" width="100%">
+
 
 [About](#about-the-project) · [Features](#planned-features) · [Requirements](#requirements) · [Installation](#installation) · [Mod List](#mod-list) · [Credits](#mod-credits) · [Support](#support)
 
