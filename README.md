@@ -1,203 +1,152 @@
-<div align="center">
-
 # GTA San Andreas: Ultimate Edition
 
-### A refined experience built around the original 2004 classic.
+> A community-made modpack for Grand Theft Auto: San Andreas.  
+> **Project status:** Testing · **Version:** 1.1
 
-**Version 1.2.0 · In Development · Testing**
+## Why I Made It
 
-<!-- Add your own GTA SA-themed banner at assets/banner.png -->
-
-
-[About](#about-the-project) · [Features](#planned-features) · [Requirements](#requirements) · [Installation](#installation) · [Mod List](#mod-list) · [Credits](#mod-credits) · [Support](#support)
-
-</div>
+[Write your story here: what you wanted the game to feel like, what the pack is meant to be, and a thank-you to the modding community.]
 
 ---
-
-
-## About the Project
-
-**GTA San Andreas: Ultimate Edition** is a community modpack project intended to bring a curated collection of modifications and improvements together in one convenient package, while respecting the look, atmosphere, and identity of the original *Grand Theft Auto: San Andreas*.
-
-The goal is to make the game easier to set up with a considered selection of modifications, clear installation guidance, and transparent credits for the creators whose work makes the project possible.
-
-**Project contributors:** Yossi and LagFixer  
-**Current version:** 1.2.0  
-**Current status:** Testing  
-**Platform:** PC  
-**Public download:** Not available yet
-
-## Planned Features
-
-The final feature list will be confirmed after testing. The project is being organized around:
-
-- A curated collection of GTA San Andreas modifications.
-- A documented list of included mods and their original sources.
-- A separate list of optional modifications.
-- Installation and troubleshooting instructions.
-- Clear attribution to mod authors and contributors.
-
-Only features confirmed in the final build should be treated as guaranteed.
 
 ## Requirements
 
-The exact requirements will be confirmed before release.
+- A clean copy of GTA San Andreas, version **[specify supported version]**.
+- **[XX] GB** of free storage.
+- **[Required tools and dependencies, if any]**.
+- **[Minimum or recommended PC specifications, if needed]**.
 
-- A legitimate PC copy of *Grand Theft Auto: San Andreas*.
-- The specific game version supported by the final release: **[Confirm supported version]**.
-- Sufficient free disk space: **[Confirm required space]**.
-- Any required tools or dependencies listed in the final installation guide.
+## Required Mods
 
-### Required dependencies
+These mods or tools must be installed for the modpack to work. Add verified names, authors, download links, and any required installation notes when the list is ready.
 
-| Dependency | Why it is required | Official source |
-|---|---|---|
-| [Dependency name] | [Purpose] | [Link] |
-
-Replace these placeholders with verified dependencies before release. Do not install additional tools unless the project instructions or a mod's original documentation require them.
-
-## Download
-
-**Version 1.2.0 is not publicly available yet.**
-
-The download link and release notes will be added here after testing is complete. Until then, please do not treat this repository as a published installer or a ready-to-install package.
-
-## Installation
-
-Installation instructions will be finalized and tested before the public release.
-
-The planned process is:
-
-1. Confirm that your copy of GTA San Andreas matches the supported game version.
-2. Back up your original game folder and saved games.
-3. Obtain the official Ultimate Edition package once it is released.
-4. Read the included instructions and install any required dependencies.
-5. Follow the verified installation steps for the package.
-6. Launch the game and check for errors before adding any other modifications.
-
-**Important:** Do not overwrite your only copy of the game without making a backup. Do not combine files from different modpack versions unless the documentation explicitly says it is safe.
-
-### Uninstallation
-
-Final uninstall instructions will be provided with the release. If installation changes the game folder, the safest general recovery method is to restore a clean backup or reinstall the game through your legitimate source.
-
-## Mod List
-
-The mod list is being prepared. Mod names, authors, versions, and source links will be added after the included files have been checked.
-
-Use the expandable categories below to browse the documented list once it is complete.
-
-<details>
-<summary><strong>Gameplay</strong></summary>
-
-- [Mod name] — **Author:** [Original author] · **Source:** [Original mod page]
-</details>
-
-<details>
-<summary><strong>Fixes and Compatibility</strong></summary>
-
-- [Mod name] — **Author:** [Original author] · **Source:** [Original mod page]
-</details>
-
-<details>
-<summary><strong>Graphics and Visuals</strong></summary>
-
-- [Mod name] — **Author:** [Original author] · **Source:** [Original mod page]
-</details>
-
-<details>
-<summary><strong>Vehicles and World</strong></summary>
-
-- [Mod name] — **Author:** [Original author] · **Source:** [Original mod page]
-</details>
-
-<details>
-<summary><strong>Audio and Other Mods</strong></summary>
-
-- [Mod name] — **Author:** [Original author] · **Source:** [Original mod page]
-</details>
-
-> **Credit note:** These entries are placeholders, not a claim that the listed mods are already included. Replace them with verified information before release.
+| Mod / Tool | Author | Download / Source | Notes |
+|---|---|---|---|
+| [Mod name] | [Author] | [Link] | [Required version or installation note] |
+| [Mod name] | [Author] | [Link] | [Required version or installation note] |
 
 ## Optional Mods
 
-Optional mods are separate from the main package and should only be installed by players who want them. Each entry should explain why the mod is optional and mention relevant compatibility or performance considerations.
+These mods are **not included in the main download** and are not required to use the modpack. Each entry should explain why a player might choose to install it and mention any relevant compatibility or performance considerations.
 
 ### [Optional mod name]
 
-- **Author:** [Original author]
-- **Source:** [Official mod page]
-- **Purpose:** [What the mod changes]
-- **Why it is optional:** [Performance, compatibility, preference, or other reason]
-- **Installation notes:** [Verified instructions, if needed]
+- **Author:** [Author]
+- **Download / Source:** [Link]
+- **Why it is optional:** [Performance cost, compatibility, personal preference, or other reason.]
+- **Notes:** [Optional installation or compatibility notes.]
 
-Add more entries as required. Confirm permissions and installation instructions with the original mod page.
+### [Optional mod name]
 
-## Mod Credits
-
-Ultimate Edition uses work created by members of the GTA modding community. All third-party modifications remain the work of their respective authors and are subject to their own licenses and distribution terms.
-
-The complete credits list will be added after the final mod list is verified.
-
-| Mod | Original author(s) | Source | Notes / permissions |
-|---|---|---|---|
-| [Mod name] | [Author name] | [Original link] | [License or permission notes] |
-| [Mod name] | [Author name] | [Original link] | [License or permission notes] |
-
-**Project contributors**
-- **Yossi** — [Add confirmed contribution]
-- **LagFixer** — [Add confirmed contribution]
-
-Please do not assume that credit alone grants permission to redistribute a mod. Check each author's terms and obtain permission where required. If an author has a concern about attribution or distribution, contact the project maintainers.
-
-## Screenshots
-
-Screenshots from the actual tested build will be added here. Do not use promotional images that misrepresent the in-game result.
-
-<!-- Add screenshots to assets/screenshots/ and then replace these placeholders.
-![Gameplay screenshot 1](assets/screenshots/gameplay-01.png)
-![Gameplay screenshot 2](assets/screenshots/gameplay-02.png)
--->
-
-## Testing and Known Issues
-
-Version 1.2.0 is under testing. Compatibility, stability, and performance notes will be documented here as they are confirmed.
-
-- **Known issues:** [Add verified issues or write “None currently confirmed” after testing.]
-- **Compatibility notes:** [Add tested game version and relevant limitations.]
-- **Performance notes:** [Add results from the tested hardware, if useful.]
-
-Please distinguish reproducible bugs from issues that have not yet been confirmed.
-
-## Support
-
-Found a bug or have a suggestion? Please open an issue in this repository.
-
-When reporting a problem, include:
-
-- The GTA San Andreas version you are using.
-- Your operating system and relevant hardware details.
-- A clear description of the problem.
-- Steps to reproduce it.
-- Screenshots or logs, if they help explain the issue.
-
-Do not upload game executables, copyrighted game assets, private information, or files you do not have permission to share.
-
-## Disclaimer
-
-GTA San Andreas: Ultimate Edition is an unofficial, community-made project. It is not affiliated with, endorsed by, or sponsored by Rockstar Games or Take-Two Interactive.
-
-*Grand Theft Auto: San Andreas* and its associated trademarks belong to their respective owners. Third-party modifications remain the property of their creators. Their inclusion, use, and redistribution are subject to each author's terms and applicable permissions.
-
-This repository is intended to document the project. A legitimate copy of the game is required. No claim is made that this project is an official Rockstar product.
+- **Author:** [Author]
+- **Download / Source:** [Link]
+- **Why it is optional:** [Reason.]
+- **Notes:** [Additional notes, if needed.]
 
 ---
 
-<div align="center">
+## Mod List
 
-**GTA San Andreas: Ultimate Edition · v1.2.0**
+The full list of modifications included in the main modpack will be documented here. Mod names, authors, and source links will be added after the included mods have been verified.
 
-Made by the community, with respect for the creators behind the mods.
+<details>
+<summary><strong>Script Mods</strong></summary>
 
-</div>
+| Mod | Author | Original Mod Page |
+|---|---|---|
+| [Mod name] | [Author] | [Link] |
+
+</details>
+
+<details>
+<summary><strong>CLEO Mods</strong></summary>
+
+| Mod | Author | Original Mod Page |
+|---|---|---|
+| [Mod name] | [Author] | [Link] |
+
+</details>
+
+<details>
+<summary><strong>Other Mods</strong></summary>
+
+| Mod | Author | Original Mod Page |
+|---|---|---|
+| [Mod name] | [Author] | [Link] |
+
+</details>
+
+---
+
+## Important Notes
+
+- [Anything players must do for the pack to work.]
+- [Anything players must not install.]
+- Back up your game folder before making changes.
+- Check mod-specific instructions and compatibility notes before installing additional modifications.
+
+---
+
+## Download and Install
+
+**Download:** Not available yet. The modpack is still being tested. The download link and final installation instructions will be added when a release is ready.
+
+### Installation Guide
+
+The final installation steps will be added after they have been confirmed for the release. Before installing any version:
+
+1. Back up your original game folder and saved games.
+2. Confirm that your game version matches the version supported by the modpack.
+3. Follow the instructions provided with the release.
+4. Install only the dependencies listed as required.
+5. Launch `gta_sa.exe` and check that the game runs correctly.
+
+### Uninstall
+
+Follow the final release's uninstall instructions. If you made a backup before installation, restore it to return to your previous setup.
+
+---
+
+## Mod Credits
+
+Every third-party modification remains the work of its original author. This section will credit the creators of the mods included in Ultimate Edition and link to their original pages.
+
+| Original Author | Mod Name | Original Mod Page | Notes / Permissions |
+|---|---|---|---|
+| [Author] | [Mod name] | [Link] | [Permission or attribution notes, if applicable] |
+| [Author] | [Mod name] | [Link] | [Permission or attribution notes, if applicable] |
+
+### Project Contributors
+
+- **Yossi:** [Add confirmed contribution.]
+- **LagFixer:** [Add confirmed contribution.]
+
+Credit and source links will be completed after the mod list is verified. Credit alone does not grant permission to redistribute third-party files; each author's terms must be respected.
+
+---
+
+## Disclaimer
+
+- This is an unofficial fan project and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
+- All third-party mods remain the property of their respective creators and are subject to their own terms and permissions.
+- This repository does not provide the original game files. You must own a legitimate copy of GTA San Andreas.
+- If you use this pack in a video or livestream, please credit the project and link back to this repository.
+
+---
+
+## Gameplay Footage
+
+[Link to your YouTube channel or video]
+
+## Screenshots
+
+Screenshots from the tested build will be added here.
+
+<!-- Add screenshots when ready, for example:
+![Screenshot 1](images/shot1.png)
+![Screenshot 2](images/shot2.png)
+-->
+
+## Support
+
+Found a bug or have a suggestion? [Open an issue](../../issues).
