@@ -16,7 +16,27 @@ This mod must be installed for the modpack to work. Add verified names, authors,
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [Mod name] | [Author] | [Link] | [Required version or installation note] |
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. Confirm the compatible release and any dependencies before publishing. |
+
+## Recommended Mods
+
+These mods are **not required** for the modpack to work, but may improve the experience for some players. Check each mod's requirements and compatibility with Ultimate Edition before installing it. Recommended mods are not included in the main download unless explicitly stated.
+
+### [Recommended mod name]
+
+- **Author:** [Author]
+- **Download / Source:** [Link to the original mod page]
+- **Why we recommend it:** [Explain what it improves and why players may want it.]
+- **Compatibility notes:** [List any known requirements, conflicts, or performance considerations.]
+
+### [Recommended mod name]
+
+- **Author:** [Author]
+- **Download / Source:** [Link to the original mod page]
+- **Why we recommend it:** [Reason for recommending it.]
+- **Compatibility notes:** [Any relevant notes.]
+
+---
 
 ## Optional Mods
 
@@ -47,7 +67,7 @@ The full list of modifications included in the main modpack will be documented h
 
 | Mod | Author | Original Mod Page |
 |---|---|---|
-| [Mod name] | [Author] | [Link] |
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) |
 
 </details>
 
