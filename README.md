@@ -328,12 +328,32 @@ Speradfx
 
 ## Mod Credits
 
-Every third-party modification remains the work of its original author. This section will credit the creators of the mods included in Ultimate Edition and link to their original pages.
+Every third-party modification remains the work of its original author. This section will credit the creators of the mods included in Ultimate Edition.
+Junior_djjr
+Jessica Natalia
+e_coj
+pedrowav
+SimBoRRis
+Artem.1.9.9.6
+pedrowav
+void
+FranciscoAlefe
+andre500
+rill_
+CatchyKetchup
+vladvo
+rixgeo
+TrushinVlad
+Artem_kostromi
+endochronic
+Dimon__gta
+Ryosuke839
+DK22Pac
+kagikin
+CR_crash
+TJGM
+app_Hero
 
-| Original Author | Mod Name | Original Mod Page | Notes / Permissions |
-|---|---|---|---|
-| [Author] | [Mod name] | [Link] | [Permission or attribution notes, if applicable] |
-| [Author] | [Mod name] | [Link] | [Permission or attribution notes, if applicable] |
 
 ### Project Contributors
 
