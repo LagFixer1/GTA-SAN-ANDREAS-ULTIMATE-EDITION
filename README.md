@@ -20,41 +20,62 @@ This mod must be installed for the modpack to work. Install this mod inside your
 
 ## Recommended Mods
 
-These mods are **not required** for the modpack to work, but may improve the experience for some players. Check each mod's requirements and compatibility with Ultimate Edition before installing it. Recommended mods are not included in the main download unless explicitly stated.
+These mods are **not required** for the modpack to work, but may improve the experience for some players. 
 
-### [Recommended mod name]
+### [Sleek Blood]
 
-- **Author:** [Author]
-- **Download / Source:** [Link to the original mod page]
-- **Why we recommend it:** [Explain what it improves and why players may want it.]
-- **Compatibility notes:** [List any known requirements, conflicts, or performance considerations.]
+- **Author:** [pedrowav]
+- **Download / Source:** [https://discord.com/channels/1540520542824562778/1544919741938929744]
+- **Why we recommend it:** [This mod is still in beta and we wanted to support the creator so thats why its the recomended mods list]
+- **Compatibility notes:** [No issues right now]
 
-### [Recommended mod name]
+### [Sleek Movement]
 
-- **Author:** [Author]
-- **Download / Source:** [Link to the original mod page]
-- **Why we recommend it:** [Reason for recommending it.]
-- **Compatibility notes:** [Any relevant notes.]
+- **Author:** [pedrowav]
+- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/244635-sleekmovement.html]
+- **Why we recommend it:** [This mod is new and we wanted to support the creator so thats why its in the recomended mods list]
+- **Compatibility notes:** [No issues right now]
+
+### [Original Radio Extended]
+
+- **Author:** [Jessica Natalia, Junior_Djjr]
+- **Download / Source:** [https://www.mixmods.com.br/2024/08/original-radio-extended/]
+- **Why we recommend it:** [This Mod is large about 7gb and we decided to put this on recmended mods list]
+- **Compatibility notes:** [Some crashes in the free roam and in the missions. Also when you install this mod dont use any radio wheel mod with it because you will see issues with both of the mods running together]
+
+
+### [Void Radio Wheel Expanded]
+
+- **Author:** [frnchise]
+- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/244494-void-radio-wheel-expanded.html]
+- **Why we recommend it:** [This mod is new and we wanted to support the creator so thats why its in the recomended mods list]
+- **Compatibility notes:** [No issues right now]
+
 
 ---
 
 ## Optional Mods
 
-These mods are **not included in the main download** and are not required to use the modpack. Each entry should explain why a player might choose to install it and mention any relevant compatibility or performance considerations.
+These mods are **not included in the main download** and are not required to use the modpack. But users can use these mods if they want to but these mods has some issues but still brings a good experience. (I am not saying these mods are bad i am saying that these mods have issues with other mods) 
 
-### [Optional mod name]
+### [Director Mode]
 
-- **Author:** [Author]
-- **Download / Source:** [Link]
-- **Why it is optional:** [Performance cost, compatibility, personal preference, or other reason.]
-- **Notes:** [Optional installation or compatibility notes.]
+- **Author:** [andre500]
+- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/245072-director-mode-a-video-editor-for-game.html]
+- **Why it is optional:** [This mod is optional because this mod has visual bugs and gltiches]
 
-### [Optional mod name]
+### [Snitch]
 
-- **Author:** [Author]
-- **Download / Source:** [Link]
-- **Why it is optional:** [Reason.]
-- **Notes:** [Additional notes, if needed.]
+- **Author:** [peter_99]
+- **Download / Source:** [https://www.patreon.com/cw/peter_99]
+- **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crash lot of times]  
+
+### [Dead Driver]
+
+- **Author:** [peter_99]]
+- **Download / Source:** [https://www.patreon.com/cw/peter_99]
+- **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crash lot of times]
+
 
 ---
 
@@ -325,10 +346,6 @@ Every third-party modification remains the work of its original author. This sec
 ## Disclaimer
 
 - This is an unofficial fan project and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
-- All third-party mods remain the property of their respective creators and are subject to their own terms and permissions.
-- This repository does not provide the original game files. You must own a legitimate copy of GTA San Andreas.
-- If you use this pack in a video or livestream, please credit the project and link back to this repository.
-
 ---
 
 
