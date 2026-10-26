@@ -9,20 +9,13 @@
 
 ---
 
-## Requirements
 
-- A clean copy of GTA San Andreas, version **[specify supported version]**.
-- **[XX] GB** of free storage.
-- **[Required tools and dependencies, if any]**.
-- **[Minimum or recommended PC specifications, if needed]**.
+## Required Mod
 
-## Required Mods
-
-These mods or tools must be installed for the modpack to work. Add verified names, authors, download links, and any required installation notes when the list is ready.
+This mod must be installed for the modpack to work. Add verified names, authors, download links, and any required installation notes when the list is ready.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [Mod name] | [Author] | [Link] | [Required version or installation note] |
 | [Mod name] | [Author] | [Link] | [Required version or installation note] |
 
 ## Optional Mods
@@ -80,8 +73,6 @@ The full list of modifications included in the main modpack will be documented h
 
 ## Important Notes
 
-- [Anything players must do for the pack to work.]
-- [Anything players must not install.]
 - Back up your game folder before making changes.
 - Check mod-specific instructions and compatibility notes before installing additional modifications.
 
@@ -91,19 +82,6 @@ The full list of modifications included in the main modpack will be documented h
 
 **Download:** Not available yet. The modpack is still being tested. The download link and final installation instructions will be added when a release is ready.
 
-### Installation Guide
-
-The final installation steps will be added after they have been confirmed for the release. Before installing any version:
-
-1. Back up your original game folder and saved games.
-2. Confirm that your game version matches the version supported by the modpack.
-3. Follow the instructions provided with the release.
-4. Install only the dependencies listed as required.
-5. Launch `gta_sa.exe` and check that the game runs correctly.
-
-### Uninstall
-
-Follow the final release's uninstall instructions. If you made a backup before installation, restore it to return to your previous setup.
 
 ---
 
@@ -118,8 +96,8 @@ Every third-party modification remains the work of its original author. This sec
 
 ### Project Contributors
 
-- **Yossi:** [Add confirmed contribution.]
-- **LagFixer:** [Add confirmed contribution.]
+- **Yossi** 
+- **LagFixer** 
 
 Credit and source links will be completed after the mod list is verified. Credit alone does not grant permission to redistribute third-party files; each author's terms must be respected.
 
@@ -134,18 +112,7 @@ Credit and source links will be completed after the mod list is verified. Credit
 
 ---
 
-## Gameplay Footage
 
-[Link to your YouTube channel or video]
-
-## Screenshots
-
-Screenshots from the tested build will be added here.
-
-<!-- Add screenshots when ready, for example:
-![Screenshot 1](images/shot1.png)
-![Screenshot 2](images/shot2.png)
--->
 
 ## Support
 
