@@ -3,9 +3,6 @@
 > A community-made modpack for Grand Theft Auto: San Andreas.  
 > **Project status:** Testing · **Version:** 1.1
 
-## Why I Made It
-
-[Write your story here: what you wanted the game to feel like, what the pack is meant to be, and a thank-you to the modding community.]
 
 ---
 
