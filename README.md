@@ -605,7 +605,7 @@ If you are a mod creator and have a concern about a mod being listed or included
 
 ## For Mod Authors and Modders
 
-We respect the work, time, and permissions of the GTA modding community. If you are a mod author and would like your modification removed from the modpack or repository, or if you believe a credit or link needs correcting, please contact one of the project contributors:
+If you are a mod author and would like your modification removed from the modpack or repository, or if you believe a credit or link needs correcting, please contact one of the project contributors:
 
 - **LagFixer:** Discord `mr.fixer12`
 - **Yossi:** Discord `the.yoss`
