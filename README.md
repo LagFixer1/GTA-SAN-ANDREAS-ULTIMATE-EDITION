@@ -319,6 +319,9 @@ The following ASI plugins and related files are included in the modpack director
 
 - All third-party mods, tools, assets, and other resources remain the property and work of their respective creators. The names below are credited in recognition of their contributions to the GTA modding community. If a credit is missing or incorrect, please contact the project contributors so it can be reviewed and corrected. A name appearing here does not imply that the person endorses or officially supports this modpack.
 
+<details>
+<summary><strong>Mod Loader Mods</strong></summary>
+
 - Junior_djjr
 
 - Jessica Natalia
