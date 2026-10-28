@@ -47,22 +47,21 @@ These mods are **not required** to run the modpack. They are recommended for pla
 - **Author:** pedrowav
 - **Download / Source:** [Creator's Discord post](https://discord.com/channels/1540520542824562778/1544919741938929744)
 - **Why we recommend it:** The mod is currently in beta, and we would like to support the creator's work.
-- **Compatibility notes:** No known issues have been encountered during our testing so far. Your results may vary depending on your setup.
+- **Compatibility notes:** No known issues have been encountered during our testing so far.
 
 ### Original Radio Extended
 
 - **Authors:** Jessica Natália and Junior_Djjr
 - **Download / Source:** [MixMods page](https://www.mixmods.com.br/2024/08/original-radio-extended/)
 - **Why we recommend it:** This is a large add-on (approximately 7 GB) that expands the radio experience. We have listed it as a recommendation rather than a required component.
-- **Compatibility notes:** During testing, crashes occurred in free roam and missions. Do **not** use another radio-wheel mod alongside it, as the two mods may conflict.
+- **Compatibility notes:** During testing, crashes occurred in free roam and missions. Do **not** use any radio-wheel mod alongside it, as the two mods may conflict.
 
 ### Void Radio Wheel Expanded
 
 - **Author:** franchise
 - **Download / Source:** [LibertyCity page](https://libertycity.net/files/gta-san-andreas/244494-void-radio-wheel-expanded.html)
 - **Why we recommend it:** This is a newer community release, and we would like to support the creator's work.
-- **Compatibility notes:** No known issues have been encountered during our testing so far. Your results may vary depending on your setup.
-
+- **Compatibility notes:** No known issues have been encountered during our testing so far. 
 ---
 
 ## Optional Mods
@@ -310,10 +309,9 @@ The following ASI plugins and related files are included in the modpack director
 
 ## Download and Install
 
-1. Back up your existing GTA San Andreas game folder.
-2. Download the modpack from the release link below once it is available.
-3. Install the required mod listed above and follow any included installation instructions.
-4. If you add recommended or optional mods, check their compatibility notes first.
+1. Download the modpack from the release link below once it is available.
+2. Install the required mod listed above and follow any included installation instructions.
+3. If you add recommended or optional mods, check their compatibility notes first.
 
 **Download:** *A download link will be added here when the release is available.*
 
