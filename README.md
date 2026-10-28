@@ -32,7 +32,11 @@ This dependency is required for the modpack to work correctly. Install it in you
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. Confirm the compatible release and any dependencies before publishing. |
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. |
+
+| Mod / Tool | Author | Download / Source | Notes |
+|---|---|---|---|
+| [Sleek Movement](https://www.patreon.com/c/jessica_natalia/posts) | pedrowav  | [Official creator page](https://libertycity.net/user/pedrowav/) | SleekMovement makes CJ’s movement feel smoother and more responsive |
 
 ## Recommended Mods
 
