@@ -26,12 +26,6 @@ These mods are **not required** for the modpack to work, but may improve the exp
 - **Why we recommend it:** [This mod is still in beta and we wanted to support the creator so thats why its the recomended mods list]
 - **Compatibility notes:** [No issues right now]
 
-### [Sleek Movement]
-
-- **Author:** [pedrowav]
-- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/244635-sleekmovement.html]
-- **Why we recommend it:** [This mod is new and we wanted to support the creator so thats why its in the recomended mods list]
-- **Compatibility notes:** [No issues right now]
 
 ### [Original Radio Extended]
 
