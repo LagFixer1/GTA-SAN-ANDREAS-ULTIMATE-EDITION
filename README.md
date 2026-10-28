@@ -5,7 +5,7 @@ A community-built modification pack for **Grand Theft Auto: San Andreas**, focus
 - **Version:** 1.1
 - **Contributors:** Yossi and LagFixer
 
-> **Please read:** Back up your game files before installing the modpack or adding any extra modifications. Review the requirements and compatibility notes below before making changes.
+> **Please read:** Back up your game files beforeadding any extra modifications. Review the requirements and compatibility notes below before making changes.
 
 ---
 
