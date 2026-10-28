@@ -319,29 +319,53 @@ Speradfx
 ## Mod Credits
 
 Every third-party modification remains the work of its original author. This section will credit the creators of the mods included in Ultimate Edition.
+
 Junior_djjr
+
 Jessica Natalia
+
 e_coj
+
 pedrowav
+
 SimBoRRis
+
 Artem.1.9.9.6
+
 pedrowav
+
 void
+
 FranciscoAlefe
+
 andre500
+
 rill_
+
 CatchyKetchup
+
 vladvo
+
 rixgeo
+
 TrushinVlad
+
 Artem_kostromi
+
 endochronic
+
 Dimon__gta
+
 Ryosuke839
+
 DK22Pac
+
 kagikin
+
 CR_crash
+
 TJGM
+
 app_Hero
 
 
@@ -358,7 +382,10 @@ app_Hero
 - This is an unofficial fan project and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
 ---
 
+## For Modders
 
+If any mod developer would like to have their mod removed from this modpack, please contact me on Discord (**mr.fixer12**) or Yossi (**the.yoss**).
+---
 
 ## Support
 
