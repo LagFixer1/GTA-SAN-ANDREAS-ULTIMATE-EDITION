@@ -35,7 +35,7 @@ These mods are required for the modpack to work correctly. Install it in your **
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [Sleek Movement](https://www.patreon.com/c/jessica_natalia/posts) | pedrowav  | [Official creator page](https://libertycity.net/user/pedrowav/) | SleekMovement makes CJ’s movement feel smoother and more responsive |
+| [Sleek Movement](https://libertycity.net/files/gta-san-andreas/244635-sleekmovement.html) | pedrowav  | [Official creator page](https://libertycity.net/user/pedrowav/) | SleekMovement makes CJ’s movement feel smoother and more responsive |
 
 ## Recommended Mods
 
