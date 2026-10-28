@@ -31,7 +31,7 @@ These mods are required for the modpack to work correctly. Install it in your **
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. |
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. (512x512 version is more stable in this modpack) |
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
