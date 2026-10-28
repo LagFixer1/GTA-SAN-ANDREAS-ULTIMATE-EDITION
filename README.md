@@ -11,7 +11,7 @@ A modification pack for **Grand Theft Auto: San Andreas**, focused on bringing t
 
 ## Contents
 
-- [Required Mod](#required-mod)
+- [Required Mods](#required-mods)
 - [Recommended Mods](#recommended-mods)
 - [Optional Mods](#optional-mods)
 - [Mod List](#mod-list)
