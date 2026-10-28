@@ -317,140 +317,270 @@ The following ASI plugins and related files are included in the modpack director
 
 ## Mod Credits
 
-All third-party mods, tools, assets, and other resources remain the property and work of their respective creators. The names below are credited in recognition of their contributions to the GTA modding community. If a credit is missing or incorrect, please contact the project contributors so it can be reviewed and corrected. A name appearing here does not imply that the person endorses or officially supports this modpack.
-
 - All third-party mods, tools, assets, and other resources remain the property and work of their respective creators. The names below are credited in recognition of their contributions to the GTA modding community. If a credit is missing or incorrect, please contact the project contributors so it can be reviewed and corrected. A name appearing here does not imply that the person endorses or officially supports this modpack.
+
 - Junior_djjr
+
 - Jessica Natalia
+
 - e_coj
+
 - pedrowav
+
 - SimBoRRis
+
 - Artem.1.9.9.6
+
 - pedrowav
+
 - void
+
 - FranciscoAlefe
+
 - andre500
+
 - rill_
+
 - CatchyKetchup
+
 - vladvo
+
 - rixgeo
+
 - TrushinVlad
+
 - Artem_kostromi
+
 - endochronic
+
 - Dimon__gta
+
 - Ryosuke839
+
 - DK22Pac
+
 - kagikin
+
 - CR_crash
+
 - TJGM
+
 - app_Hero
+
 - nadalao
+
 - Tio KY
+
 - Function-X
+
 - ReaperM60
+
 - LINK / 2012
+
 - lazyuselessman
+
 - Flentric
+
 - DJDarko
+
 - Matt1010
+
 - Sket_h
+
 - Angeloski85
+
 - Hue
+
 - akiri ft
+
 - juicermv
+
 - hr75+Jonepp
+
 - Grinch
+
 - EduardoJ
+
 - StreetFonso
+
 - Hysen
+
 - Tripaseca
+
 - Aal
+
 - MJkun17
+
 - KaiQ
+
 - Zeneric
+
 - madleg
+
 - sociopart
+
 - Crspy
+
 - Neon32
+
 - War Drum Studios
+
 - IvoryColt
+
 - HermeSSentinuS
+
 - Leonid Omsk
+
 - Kage
+
 - BobFromReboot
+
 - AndPewLowThar
+
 - yojo2
+
 - ernestin1
+
 - Quantum
+
 - CRRPGMykae
+
 - Fabio
+
 - Jaehaerys
+
 - artginPL
+
 - Adu$ (AdusPL)
+
 - ScarButtCheeks
+
 - Unknown
+
 - iamkaronese (Brema)
+
 - -Lukass B-
+
 - OjTrue
+
 - Jão
+
 - François Declasse
+
 - Irsis
+
 - SlingShot753
+
 - HackMan128
+
 - H-G
+
 - peter_99
+
 - Batuhan13
+
 - ZZPuma
+
 - Neon
+
 - HzanRsxa2959
+
 - YyHhGgTt
+
 - opiumdealer
+
 - Нил К
+
 - KUSTODIY
+
 - Victor Trok
+
 - PatrickW
+
 - Craig Kostelecky
+
 - ThirteenAG
+
 - yigitxoz
+
 - Thiago555aug
+
 - Penguinumber9
+
 - SlingShot753
+
 - set2523
+
 - Runner
+
 - Crowdigger
+
 - dmitriyewich
+
 - Foolanow
+
 - Kr0n0s800
+
 - Tiagrand
+
 - Notorious
+
 - MCJ
+
 - lowpolyped
+
 - 01st
+
 - Miguel Araújo
+
 - CaçadorEterno
+
 - Mrcbrmdz
+
 - Nick Oliveira
+
 - Meck
+
 - luke_slywalker
+
 - Xx_69iq_xX
+
 - Ryder555
+
 - NTAuthority
+
 - Silent
+
 - DexX
+
 - MrFinger
+
 - BeyondTheVeilOfDeath
+
 - Son Of Big Boss
+
 - kretin8
+
 - ermaccer
+
 - Ryadica926
+
 - Limeo
+
 - Andrey 50 AND
+
 - Amilton
+
 - Kalvin
+
 - Robson Martins
+
 - Rizky Aldiansyah
+
 - Blackjack
+
 - TheNoiceCat
+
 - DaftoNTive
 
 ### Project Contributors
