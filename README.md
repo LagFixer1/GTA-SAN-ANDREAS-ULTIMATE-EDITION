@@ -312,7 +312,7 @@ The following ASI plugins and related files are included in the modpack director
 2. Install the required mod listed above and follow any included installation instructions.
 3. If you add recommended or optional mods, check their compatibility notes first.
 
-**Download:** *A download link will be added here when the release is available.*
+**Download:** *https://gofile.io/d/YNb3jTgA*
 
 ---
 
