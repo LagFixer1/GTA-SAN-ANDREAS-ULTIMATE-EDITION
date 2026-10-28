@@ -208,7 +208,6 @@ The following mods are included in the current Mod Loader setup.
 - reLIT - San Andreas
 - REMASTERED CHARACTER REDESIGNS V1
 - Robbery Mod
-- RoSa Project Evolved
 - Rural car repairs
 - RZL-Skin
 - SA.LeeMoveset
@@ -220,7 +219,6 @@ The following mods are included in the current Mod Loader setup.
 - Shot Cam Shake
 - SleekConfig
 - SleekHitmarkers
-- SleekMovement
 - SkyGfx
 - Smart_Health_Recovery
 - Soundize
