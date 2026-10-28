@@ -7,13 +7,17 @@
 ---
 
 
-## Required Mod
+## Required Mods
 
-This mod must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install this mod your game will crash.
+These mods must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install this mod your game will crash.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. Confirm the compatible release and any dependencies before publishing. |
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. 
+
+| Mod / Tool | Author | Download / Source | Notes |
+|---|---|---|---|
+| [Sleek Movement](https://libertycity.net/files/gta-san-andreas/244635-sleekmovement.html) | pedrowav | [Official creator page](https://libertycity.net/user/pedrowav/) | Overhauls gta sa movement. 
 
 ## Recommended Mods
 
