@@ -618,7 +618,7 @@ Please be respectful when contacting the team. We aim to handle credit, link, an
 
 ## AI Use and Project Transparency
 
-This GitHub repository and its project documentation were put together by a human, not generated wholesale by AI. The previous website was made with AI assistance, and we want to be transparent about that. **For this repository, the only AI assistance used was to correct grammar and improve the English wording**, because English is not my strongest language.
+This GitHub repository and its project documentation were put together by a human, not generated wholesale by AI. The previous website was made with AI assistance, and we want to be transparent about that. **For this repository, the only AI assistance used was to correct grammar and improve the English wording**, because English is not ours strongest language.
 
 The project choices, mod selection, testing, organization, and decisions described here are the responsibility of the human contributors. Grammar correction does not mean that AI created the modpack or made the project's decisions. We are including this section so visitors can clearly understand what was and was not assisted by AI.
 
