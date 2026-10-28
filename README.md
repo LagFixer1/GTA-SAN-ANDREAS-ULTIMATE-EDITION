@@ -1,82 +1,93 @@
 # GTA San Andreas: Ultimate Edition
 
-> A community-made modpack for Grand Theft Auto: San Andreas.  
-> **Project status:** Testing · **Version:** 1.1
+A community-built modification pack for **Grand Theft Auto: San Andreas**, focused on bringing together gameplay improvements, visual enhancements, quality-of-life features, and additional content.
 
+- **Project status:** Testing
+- **Version:** 1.1
+- **Contributors:** Yossi and LagFixer
+
+> **Please read:** Back up your game files before installing the modpack or adding any extra modifications. Review the requirements and compatibility notes below before making changes.
 
 ---
 
+## Contents
 
-## Required Mods
+- [Required Mod](#required-mod)
+- [Recommended Mods](#recommended-mods)
+- [Optional Mods](#optional-mods)
+- [Mod List](#mod-list)
+- [Important Notes](#important-notes)
+- [Download and Install](#download-and-install)
+- [Mod Credits](#mod-credits)
+- [Disclaimer](#disclaimer)
+- [For Mod Authors and Modders](#for-mod-authors-and-modders)
+- [AI Use and Project Transparency](#ai-use-and-project-transparency)
+- [Support](#support)
 
-These mods must be installed for the modpack to work. Install this mod inside your modloader folder if you dont install this mod your game will crash.
+---
+
+## Required Mod
+
+This dependency is required for the modpack to work correctly. Install it in your **Mod Loader** folder and follow the original creator's installation instructions. The game may crash or behave unexpectedly if this requirement is missing or installed incorrectly.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
-| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. 
-
-| Mod / Tool | Author | Download / Source | Notes |
-|---|---|---|---|
-| [Sleek Movement](https://libertycity.net/files/gta-san-andreas/244635-sleekmovement.html) | pedrowav | [Official creator page](https://libertycity.net/user/pedrowav/) | Overhauls gta sa movement. 
+| [RoSA Project Evolved](https://www.patreon.com/c/jessica_natalia/posts) | Jéssica Natália | [Official creator page](https://www.patreon.com/c/jessica_natalia/posts) | HD texture overhaul. Confirm the compatible release and any dependencies before publishing. |
 
 ## Recommended Mods
 
-These mods are **not required** for the modpack to work, but may improve the experience for some players. 
+These mods are **not required** to run the modpack. They are recommended for players who want to try additional features or support ongoing community projects. Read each mod's notes before installing it.
 
-### [Sleek Blood]
+### Sleek Blood
 
-- **Author:** [pedrowav]
-- **Download / Source:** [https://discord.com/channels/1540520542824562778/1544919741938929744]
-- **Why we recommend it:** [This mod is still in beta and we wanted to support the creator so thats why its the recomended mods list]
-- **Compatibility notes:** [No issues right now]
+- **Author:** pedrowav
+- **Download / Source:** [Creator's Discord post](https://discord.com/channels/1540520542824562778/1544919741938929744)
+- **Why we recommend it:** The mod is currently in beta, and we would like to support the creator's work.
+- **Compatibility notes:** No known issues have been encountered during our testing so far. Your results may vary depending on your setup.
 
+### Original Radio Extended
 
-### [Original Radio Extended]
+- **Authors:** Jessica Natália and Junior_Djjr
+- **Download / Source:** [MixMods page](https://www.mixmods.com.br/2024/08/original-radio-extended/)
+- **Why we recommend it:** This is a large add-on (approximately 7 GB) that expands the radio experience. We have listed it as a recommendation rather than a required component.
+- **Compatibility notes:** During testing, crashes occurred in free roam and missions. Do **not** use another radio-wheel mod alongside it, as the two mods may conflict.
 
-- **Author:** [Jessica Natalia, Junior_Djjr]
-- **Download / Source:** [https://www.mixmods.com.br/2024/08/original-radio-extended/]
-- **Why we recommend it:** [This Mod is large about 7gb and we decided to put this on recmended mods list]
-- **Compatibility notes:** [Some crashes in the free roam and in the missions. Also when you install this mod dont use any radio wheel mod with it because you will see issues with both of the mods running together]
+### Void Radio Wheel Expanded
 
-
-### [Void Radio Wheel Expanded]
-
-- **Author:** [franchise]
-- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/244494-void-radio-wheel-expanded.html]
-- **Why we recommend it:** [This mod is new and we wanted to support the creator so thats why its in the recomended mods list]
-- **Compatibility notes:** [No issues right now]
-
+- **Author:** franchise
+- **Download / Source:** [LibertyCity page](https://libertycity.net/files/gta-san-andreas/244494-void-radio-wheel-expanded.html)
+- **Why we recommend it:** This is a newer community release, and we would like to support the creator's work.
+- **Compatibility notes:** No known issues have been encountered during our testing so far. Your results may vary depending on your setup.
 
 ---
 
 ## Optional Mods
 
-These mods are **not included in the main download** and are not required to use the modpack. But users can use these mods if they want to but these mods has some issues but still brings a good experience. (I am not saying these mods are bad i am saying that these mods have issues with other mods) 
+These mods are **not included in the main download** and are not required. You may install them separately if you wish, but our testing found bugs, visual issues, crashes, or possible conflicts with other modifications. This does not mean the mods are bad; it means they may not work reliably with the current modpack setup. Install them at your own discretion and keep a backup of your game folder.
 
-### [Director Mode]
+### Director Mode
 
-- **Author:** [andre500]
-- **Download / Source:** [https://libertycity.net/files/gta-san-andreas/245072-director-mode-a-video-editor-for-game.html]
-- **Why it is optional:** [This mod is optional because this mod has visual bugs and gltiches]
+- **Author:** andre500
+- **Download / Source:** [LibertyCity page](https://libertycity.net/files/gta-san-andreas/245072-director-mode-a-video-editor-for-game.html)
+- **Why it is optional:** Testing revealed visual bugs and glitches.
 
-### [Snitch]
+### Snitch
 
-- **Author:** [peter_99]
-- **Download / Source:** [https://www.patreon.com/cw/peter_99]
-- **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crash lot of times]  
+- **Author:** peter_99
+- **Download / Source:** [Creator's Patreon](https://www.patreon.com/cw/peter_99)
+- **Why it is optional:** During testing, the mod showed multiple bugs and caused frequent crashes.  
 
-### [Dead Driver]
+### Dead Driver
 
-- **Author:** [peter_99]
-- **Download / Source:** [https://www.patreon.com/cw/peter_99]
+- **Author:** peter_99
+- **Download / Source:** [Creator's Patreon](https://www.patreon.com/cw/peter_99)
 - **Why it is optional:** [This mod is not in the modpack becasue it has many bugs when i was testing this and it crashed lot of times]
-
 
 ---
 
 ## Mod List
 
-The current Mod Loader folder names are listed below. 
+The following list shows the mod folder names included in the current Mod Loader setup. Names are kept close to their folder names to make it easier to identify the installed files.
 <details>
 <summary><strong>Mod Loader Mods</strong></summary>
 
@@ -249,59 +260,37 @@ The following mods are included in the current Mod Loader setup.
 <details>
 <summary><strong>CLEO Mods</strong></summary>
 
-The following CLEO mods are included in the Cleo mods folder in the modpack. 
+The following CLEO mods are included in the modpack's CLEO folder.
 
-SaShakeFx 	
-
-Amazing Screen Shot Mod 	
-
-Dynamic Camera 	
-
-GTA SA IV Car Highjack Mod 
-
-Hold Melee 	
-
-VC Cop Coronas 
-
-RZL Trainer 
-
-Skidblow 	
-
-Show Only Necessary HUD 	
-
-Air Traffic Realism 	
-
-Blur on Explosion 	
-
-Cheat Menu 
-
+- SaShakeFx
+- Amazing Screen Shot Mod
+- Dynamic Camera
+- GTA SA IV Car Highjack Mod
+- Hold Melee
+- VC Cop Coronas
+- RZL Trainer
+- Skidblow
+- Show Only Necessary HUD
+- Air Traffic Realism
+- Blur on Explosion
+- Cheat Menu
 </details>
 
 <details>
 <summary><strong>ASI Mods</strong></summary>
 
-The following ASI mods are included in the Modpack directory.
+The following ASI plugins and related files are included in the modpack directory.
 
-Ultimate First Person 0.71 
-
-GTA SA Windowed mode
-
-Reshade
-
-Model Varitions 
-
-timecyc24
-
-ImVehFt
-
-discord-plugin
-
-Bullet trails
-
-Exgangwars
-
-Speradfx
-
+- Ultimate First Person 0.71
+- GTA SA Windowed mode
+- Reshade
+- Model Varitions
+- timecyc24
+- ImVehFt
+- discord-plugin
+- Bullet trails
+- Exgangwars
+- Speradfx
 </details>
 
 ---
@@ -309,304 +298,331 @@ Speradfx
 ## Important Notes
 
 - Back up your game folder before making changes.
-- Check mod-specific instructions and compatibility notes before installing additional modifications.
+- Read each mod's original installation instructions and compatibility notes before adding it.
+- Install additional mods one at a time so that any conflicts or crashes are easier to identify.
+- The mod list may change as testing continues; this README describes the current documented setup.
 
 ---
 
 ## Download and Install
 
-**Download:** 
+1. Back up your existing GTA San Andreas game folder.
+2. Download the modpack from the release link below once it is available.
+3. Install the required mod listed above and follow any included installation instructions.
+4. If you add recommended or optional mods, check their compatibility notes first.
 
+**Download:** *A download link will be added here when the release is available.*
 
 ---
 
 ## Mod Credits
 
-Every third-party modification remains the work of its original author. This section will credit the creators of the mods included in Ultimate Edition.
+- All third-party mods, tools, assets, and other resources remain the property and work of their respective creators. The names below are credited in recognition of their contributions to the GTA modding community. If a credit is missing or incorrect, please contact the project contributors so it can be reviewed and corrected. A name appearing here does not imply that the person endorses or officially supports this modpack.
 
-Junior_djjr
+- Junior_djjr
 
-Jessica Natalia
+- Jessica Natalia
 
-e_coj
+- e_coj
 
-pedrowav
+- pedrowav
 
-SimBoRRis
+- SimBoRRis
 
-Artem.1.9.9.6
+- Artem.1.9.9.6
 
-pedrowav
+- pedrowav
 
-void
+- void
 
-FranciscoAlefe
+- FranciscoAlefe
 
-andre500
+- andre500
 
-rill_
+- rill_
 
-CatchyKetchup
+- CatchyKetchup
 
-vladvo
+- vladvo
 
-rixgeo
+- rixgeo
 
-TrushinVlad
+- TrushinVlad
 
-Artem_kostromi
+- Artem_kostromi
 
-endochronic
+- endochronic
 
-Dimon__gta
+- Dimon__gta
 
-Ryosuke839
+- Ryosuke839
 
-DK22Pac
+- DK22Pac
 
-kagikin
+- kagikin
 
-CR_crash
+- CR_crash
 
-TJGM
+- TJGM
 
-app_Hero
+- app_Hero
 
-nadalao
+- nadalao
 
-Tio KY
+- Tio KY
 
-Function-X
+- Function-X
 
-ReaperM60
+- ReaperM60
 
-LINK / 2012
+- LINK / 2012
 
-lazyuselessman
+- lazyuselessman
 
-Flentric
+- Flentric
 
-DJDarko
+- DJDarko
 
-Matt1010
+- Matt1010
 
-Sket_h
+- Sket_h
 
-Angeloski85
+- Angeloski85
 
-Hue
+- Hue
 
-akiri ft
+- akiri ft
 
-juicermv
+- juicermv
 
-hr75+Jonepp
+- hr75+Jonepp
 
-Grinch
+- Grinch
 
-EduardoJ
+- EduardoJ
 
-StreetFonso 
+- StreetFonso
 
-Hysen
+- Hysen
 
-Tripaseca  
+- Tripaseca
 
-Aal 
+- Aal
 
-MJkun17 
+- MJkun17
 
-KaiQ 
+- KaiQ
 
-Zeneric
+- Zeneric
 
-madleg
+- madleg
 
-sociopart
+- sociopart
 
-Crspy
+- Crspy
 
-Neon32
+- Neon32
 
-War Drum Studios
+- War Drum Studios
 
-IvoryColt
+- IvoryColt
 
-HermeSSentinuS
+- HermeSSentinuS
 
-Leonid Omsk,
+- Leonid Omsk
 
-Kage
+- Kage
 
-BobFromReboot,
+- BobFromReboot
 
-AndPewLowThar
- 
-yojo2
- 
-ernestin1
- 
-Quantum
- 
-CRRPGMykae  
+- AndPewLowThar
 
-Fabio
+- yojo2
 
-Jaehaerys
+- ernestin1
 
-artginPL  
+- Quantum
 
-Adu$ (AdusPL)
+- CRRPGMykae
 
-ScarButtCheeks
+- Fabio
 
-Unknown 
+- Jaehaerys
 
-iamkaronese (Brema)
+- artginPL
 
--Lukass B-
+- Adu$ (AdusPL)
 
-OjTrue
+- ScarButtCheeks
 
-Jão
+- Unknown
 
-François Declasse
+- iamkaronese (Brema)
 
-Irsis
+- -Lukass B-
 
-SlingShot753 
- 
-HackMan128 
- 
-H-G
+- OjTrue
 
-peter_99 
+- Jão
 
-Batuhan13
+- François Declasse
 
-ZZPuma
+- Irsis
 
-Neon
+- SlingShot753
 
-HzanRsxa2959
+- HackMan128
 
-YyHhGgTt
+- H-G
 
-opiumdealer
+- peter_99
 
-Нил К
+- Batuhan13
 
-KUSTODIY 
+- ZZPuma
 
-Victor Trok
+- Neon
 
-PatrickW 
+- HzanRsxa2959
 
-Craig Kostelecky 
+- YyHhGgTt
 
-ThirteenAG
+- opiumdealer
 
-yigitxoz 
+- Нил К
 
-Thiago555aug 
+- KUSTODIY
 
-Penguinumber9 
+- Victor Trok
 
-SlingShot753 
+- PatrickW
 
-set2523
+- Craig Kostelecky
 
-Runner
+- ThirteenAG
 
-Crowdigger
+- yigitxoz
 
-dmitriyewich
+- Thiago555aug
 
-Foolanow
+- Penguinumber9
 
-Kr0n0s800
+- SlingShot753
 
-Tiagrand
+- set2523
 
-Notorious 
+- Runner
 
-MCJ
+- Crowdigger
 
-lowpolyped
+- dmitriyewich
 
-01st
+- Foolanow
 
-Miguel Araújo 
+- Kr0n0s800
 
-CaçadorEterno,
+- Tiagrand
 
-Mrcbrmdz
+- Notorious
 
-Nick Oliveira
- 
-Meck
+- MCJ
 
-luke_slywalker
+- lowpolyped
 
-Xx_69iq_xX
+- 01st
 
-Ryder555
+- Miguel Araújo
 
-NTAuthority 
+- CaçadorEterno
 
-Silent 
+- Mrcbrmdz
 
-DexX
+- Nick Oliveira
 
-MrFinger
-  
-BeyondTheVeilOfDeath 
+- Meck
 
-Son Of Big Boss 
+- luke_slywalker
 
-kretin8 
+- Xx_69iq_xX
 
-ermaccer 
+- Ryder555
 
-Ryadica926 
+- NTAuthority
 
-Limeo
+- Silent
 
-Andrey 50 AND
+- DexX
 
-Amilton
+- MrFinger
 
-Kalvin
+- BeyondTheVeilOfDeath
 
-Robson Martins
+- Son Of Big Boss
 
-Rizky Aldiansyah
+- kretin8
 
-Blackjack 
- 
-TheNoiceCat
+- ermaccer
 
-DaftoNTive
+- Ryadica926
 
+- Limeo
+
+- Andrey 50 AND
+
+- Amilton
+
+- Kalvin
+
+- Robson Martins
+
+- Rizky Aldiansyah
+
+- Blackjack
+
+- TheNoiceCat
+
+- DaftoNTive
 
 ### Project Contributors
 
-- **Yossi** 
-- **LagFixer** 
-
+- **Yossi** — project contributor
+- **LagFixer** — project contributor 
 
 ---
 
 ## Disclaimer
 
-- This is an unofficial fan project and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
+GTA San Andreas: Ultimate Edition is an **unofficial, community-made project** created for fans of *Grand Theft Auto: San Andreas*. It is not affiliated with, sponsored by, authorized by, or endorsed by Rockstar Games, Take-Two Interactive, or any of their subsidiaries.
+
+All trademarks, game names, and other third-party intellectual property belong to their respective owners. Third-party mods and tools are created and maintained by their original authors; this project does not claim ownership of their work. Please visit the original creators' pages for their official downloads, requirements, permissions, and support.
+
+This repository is provided for informational and community purposes. Compatibility, performance, and stability can vary depending on your game version, hardware, installed files, and the combination of mods you use. Although the modpack is tested, we cannot guarantee that it will be free of bugs, conflicts, crashes, or data loss. **Back up your game files before installing or changing anything.** Use the listed mods at your own discretion and follow each creator's terms and installation instructions.
+
+If you are a mod creator and have a concern about a mod being listed or included, please contact the project contributors. We will review reasonable requests and make appropriate changes where possible.
+
 ---
 
-## For Modders
+## For Mod Authors and Modders
 
-If any mod developer would like to have their mod removed from this modpack, please contact me on Discord (**mr.fixer12**) or Yossi (**the.yoss**).
+We respect the work, time, and permissions of the GTA modding community. If you are a mod author and would like your modification removed from the modpack or repository, or if you believe a credit or link needs correcting, please contact one of the project contributors:
+
+- **LagFixer:** Discord `mr.fixer12`
+- **Yossi:** Discord `the.yoss`
+
+When contacting us, please include the mod's name, the relevant download or repository link, and the change you are requesting. If you are requesting removal, please provide enough information for us to verify that you are the original author or an authorized representative. We will review the request and respond as soon as reasonably possible.
+
+Please be respectful when contacting the team. We aim to handle credit, link, and removal requests professionally and to respect each creator's stated permissions. Listing a mod in this README does not mean that we own it or that its author has endorsed this project.
+
+---
+
+## AI Use and Project Transparency
+
+This GitHub repository and its project documentation were put together by a human, not generated wholesale by AI. The previous website was made with AI assistance, and we want to be transparent about that. **For this repository, the only AI assistance used was to correct grammar and improve the English wording**, because English is not my strongest language.
+
+The project choices, mod selection, testing, organization, and decisions described here are the responsibility of the human contributors. Grammar correction does not mean that AI created the modpack or made the project's decisions. We are including this section so visitors can clearly understand what was and was not assisted by AI.
+
 ---
 
 ## Support
 
-Found a bug or have a suggestion? [Open an issue](../../issues).
+Found a bug, noticed an incorrect credit, or have a suggestion? [Open an issue](../../issues). Please include useful details so the team can understand and review the report.
