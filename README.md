@@ -2,7 +2,6 @@
 
 A community-built modification pack for **Grand Theft Auto: San Andreas**, focused on bringing together gameplay improvements, visual enhancements, quality-of-life features, and additional content.
 
-- **Project status:** Testing
 - **Version:** 1.1
 - **Contributors:** Yossi and LagFixer
 
