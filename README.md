@@ -593,7 +593,7 @@ The following ASI plugins and related files are included in the modpack director
 
 ## Disclaimer
 
-GTA San Andreas: Ultimate Edition is an **unofficial, community-made project** created for fans of *Grand Theft Auto: San Andreas*. It is not affiliated with, sponsored by, authorized by, or endorsed by Rockstar Games, Take-Two Interactive, or any of their subsidiaries.
+GTA San Andreas: Ultimate Edition is an **unofficial, project** created for fans of *Grand Theft Auto: San Andreas*. It is not affiliated with, sponsored by, authorized by, or endorsed by Rockstar Games, Take-Two Interactive, or any of their subsidiaries.
 
 All trademarks, game names, and other third-party intellectual property belong to their respective owners. Third-party mods and tools are created and maintained by their original authors; this project does not claim ownership of their work. Please visit the original creators' pages for their official downloads, requirements, permissions, and support.
 
