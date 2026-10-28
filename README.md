@@ -1,6 +1,6 @@
 # GTA San Andreas: Ultimate Edition
 
-A community-built modification pack for **Grand Theft Auto: San Andreas**, focused on bringing together gameplay improvements, visual enhancements, quality-of-life features, and additional content.
+A modification pack for **Grand Theft Auto: San Andreas**, focused on bringing together gameplay improvements, visual enhancements, quality-of-life features, and additional content.
 
 - **Version:** 1.1
 - **Contributors:** Yossi and LagFixer
