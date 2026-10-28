@@ -25,9 +25,9 @@ A community-built modification pack for **Grand Theft Auto: San Andreas**, focus
 
 ---
 
-## Required Mod
+## Required Mods
 
-This dependency is required for the modpack to work correctly. Install it in your **Mod Loader** folder and follow the original creator's installation instructions. The game may crash or behave unexpectedly if this requirement is missing or installed incorrectly.
+These mods are required for the modpack to work correctly. Install it in your **Mod Loader** folder and follow the original creator's installation instructions. The game may crash or behave unexpectedly if this requirement is missing or installed incorrectly.
 
 | Mod / Tool | Author | Download / Source | Notes |
 |---|---|---|---|
