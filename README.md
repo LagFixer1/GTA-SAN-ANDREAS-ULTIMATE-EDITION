@@ -201,7 +201,6 @@ The following mods are included in the current Mod Loader setup.
 - SCRLog
 - Shoreline Waves
 - Shot Cam Shake
-- SleekBlood
 - SleekConfig
 - SleekHitmarkers
 - SleekMovement
